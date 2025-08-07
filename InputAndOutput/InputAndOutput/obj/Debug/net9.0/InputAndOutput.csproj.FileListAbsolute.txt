@@ -1,0 +1,14 @@
+F:\C#\InputAndOutput\InputAndOutput\bin\Debug\net9.0\InputAndOutput.exe
+F:\C#\InputAndOutput\InputAndOutput\bin\Debug\net9.0\InputAndOutput.deps.json
+F:\C#\InputAndOutput\InputAndOutput\bin\Debug\net9.0\InputAndOutput.runtimeconfig.json
+F:\C#\InputAndOutput\InputAndOutput\bin\Debug\net9.0\InputAndOutput.dll
+F:\C#\InputAndOutput\InputAndOutput\bin\Debug\net9.0\InputAndOutput.pdb
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\InputAndOutput.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\InputAndOutput.AssemblyInfoInputs.cache
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\InputAndOutput.AssemblyInfo.cs
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\InputAndOutput.csproj.CoreCompileInputs.cache
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\InputAndOutput.dll
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\refint\InputAndOutput.dll
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\InputAndOutput.pdb
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\InputAndOutput.genruntimeconfig.cache
+F:\C#\InputAndOutput\InputAndOutput\obj\Debug\net9.0\ref\InputAndOutput.dll

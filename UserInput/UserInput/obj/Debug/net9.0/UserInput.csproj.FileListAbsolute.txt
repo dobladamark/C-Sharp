@@ -1,0 +1,14 @@
+F:\C#\UserInput\UserInput\bin\Debug\net9.0\UserInput.exe
+F:\C#\UserInput\UserInput\bin\Debug\net9.0\UserInput.deps.json
+F:\C#\UserInput\UserInput\bin\Debug\net9.0\UserInput.runtimeconfig.json
+F:\C#\UserInput\UserInput\bin\Debug\net9.0\UserInput.dll
+F:\C#\UserInput\UserInput\bin\Debug\net9.0\UserInput.pdb
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\UserInput.AssemblyInfoInputs.cache
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\UserInput.AssemblyInfo.cs
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\UserInput.csproj.CoreCompileInputs.cache
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\UserInput.dll
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\refint\UserInput.dll
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\UserInput.pdb
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\UserInput.genruntimeconfig.cache
+F:\C#\UserInput\UserInput\obj\Debug\net9.0\ref\UserInput.dll

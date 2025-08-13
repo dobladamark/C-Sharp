@@ -1,0 +1,14 @@
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\bin\Debug\net9.0\Booleans.exe
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\bin\Debug\net9.0\Booleans.deps.json
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\bin\Debug\net9.0\Booleans.runtimeconfig.json
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\bin\Debug\net9.0\Booleans.dll
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\bin\Debug\net9.0\Booleans.pdb
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\Booleans.AssemblyInfoInputs.cache
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\Booleans.AssemblyInfo.cs
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\Booleans.csproj.CoreCompileInputs.cache
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\Booleans.dll
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\refint\Booleans.dll
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\Booleans.pdb
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\Booleans.genruntimeconfig.cache
+C:\C-Sharp-main\C-Sharp-main\Booleans\Booleans\obj\Debug\net9.0\ref\Booleans.dll
